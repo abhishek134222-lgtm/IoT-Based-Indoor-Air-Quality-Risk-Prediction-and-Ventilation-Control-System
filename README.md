@@ -24,17 +24,19 @@ The system processes sensor readings through an Arduino Uno and responds using a
 
 ## Hardware Components
 
-| Component | Purpose |
-|---|---|
-| Arduino Uno | Main controller |
-| MQ-2 Sensor | Gas and smoke detection |
-| DHT11 Sensor | Temperature and humidity monitoring |
-| Flame Sensor | Flame detection |
-| HC-05 Module | Bluetooth communication |
-| 1-Channel Relay | Fan switching |
-| 12V DC Fan | Ventilation |
-| 2 Buzzers | Audio alerts |
-| 2 LEDs | Visual indicators |
+ -------------------------------------------------------
+|    Component    |               Purpose               |
+|-----------------|-------------------------------------|
+| Arduino Uno     | Main controller                     |
+| MQ-2 Sensor     | Gas and smoke detection             |
+| DHT11 Sensor    | Temperature and humidity monitoring |
+| Flame Sensor    | Flame detection                     |
+| HC-05 Module    | Bluetooth communication             |
+| 1-Channel Relay | Fan switching                       |
+| 12V DC Fan      | Ventilation                         |
+| 2 Buzzers       | Audio alerts                        |
+| 2 LEDs          | Visual indicators                   |
+ -------------------------------------------------------
 
 ## Technologies Used
 
@@ -60,20 +62,20 @@ The system processes sensor readings through an Arduino Uno and responds using a
 
 ## Bluetooth Commands
 
-| Command | Function |
-|---|---|
-| `status` | Display system status |
-| `on` | Turn fan ON |
-| `off` | Turn fan OFF |
-| `auto` | Enable automatic mode |
-| `mute` | Mute buzzers |
-| `unmute` | Enable buzzers |
-| `reset` | Reset flame alarm |
-| `live` | Toggle live sensor data |
-| `calibrate` | Calibrate MQ-2 |
-| `default` | Restore default thresholds |
-| `test` | Test fan and buzzers |
-| `menu` | Display command menu |
+|   Command   |          Function          |
+|-------------|----------------------------|
+| `status`    | Display system status      |
+| `on`        | Turn fan ON                |
+| `off`       | Turn fan OFF               |
+| `auto`      | Enable automatic mode      |
+| `mute`      | Mute buzzers               |
+| `unmute`    | Enable buzzers             |
+| `reset`     | Reset flame alarm          |
+| `live`      | Toggle live sensor data    |
+| `calibrate` | Calibrate MQ-2             |
+| `default`   | Restore default thresholds |
+| `test`      | Test fan and buzzers       |
+| `menu`      | Display command menu       |
 
 The additional command `hawa` is supported for turning the fan ON.
 
@@ -135,13 +137,12 @@ Always follow appropriate electrical safety practices when connecting the relay,
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Project Contributors
+## 👥 Project Contributors
 
-This project was developed collaboratively by:
+|        Name          |     Role     |         GitHub       |
+|----------------------|--------------|----------------------|
+| **Abhishek**         | Project Lead | @abhishek134222-lgtm |
+| **Daman Bassi**      | Contributor  | @Daman072008         |
+| **Bipanpreet Singh** | Contributor  | @bipanpreets28       |
+| **Anuj**             | Contributor  | @techanuj00-sketch   |
 
-- **Abhishek** — Project Lead
-- **Bipanpreet Singh** — Contributor
-- **Daman Bassi** — Contributor
-- **Anuj** — Contributor
-
-Thanks to everyone involved in building this project!
