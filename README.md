@@ -139,10 +139,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 👥 Project Contributors
 
-|        Name          |     Role     |         GitHub       |
-|----------------------|--------------|----------------------|
-| **Abhishek**         | Project Lead | @abhishek134222-lgtm |
-| **Daman Bassi**      | Contributor  | @Daman072008         |
-| **Bipanpreet Singh** | Contributor  | @bipanpreets28       |
-| **Anuj**             | Contributor  | @techanuj00-sketch   |
+|        Name          |     Role     |         GitHub       
+|----------------------|--------------|-----------------------------
+| **Abhishek**         | Project Lead | ([Abhishek](https://github.com/abhishek134222-lgtm)) 
+| **Daman Bassi**      | Contributor  | ([Daman Bassi](https://github.com/Daman072008))         
+| **Bipanpreet Singh** | Contributor  | ([Bipanreet Singh](https://github.com/bipanpreets28))       
+| **Anuj**             | Contributor  | ([Anuj](https://github.com/techanuj00-sketch))   
 
