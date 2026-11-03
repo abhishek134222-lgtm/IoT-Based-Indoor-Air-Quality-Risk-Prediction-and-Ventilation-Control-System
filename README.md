@@ -134,3 +134,14 @@ Always follow appropriate electrical safety practices when connecting the relay,
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Project Contributors
+
+This project was developed collaboratively by:
+
+- **Abhishek** — Project Lead
+- **Bipanpreet Singh** — Contributor
+- **Daman Bassi** — Contributor
+- **Anuj** — Contributor
+
+Thanks to everyone involved in building this project!
